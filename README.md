@@ -20,4 +20,4 @@ Output:
 ![](https://i.imgur.com/O7QNHVK.png)
 
 ## Project Goals
-The code is written for educational purposes on online-course for web-developers dvmn.org.s
+The code is written for educational purposes on online-course for web-developers dvmn.org
